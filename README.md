@@ -1,29 +1,71 @@
+# Project Name
+
+## Overview
+
+This project is a backend application developed in Node.js, Docker, TypeORM, and Multer for avatar upload. It's designed for a North American startup and includes the following features:
+
 ## Authentication
 
-1 - The client must get a new user [✔]
-2 - Customer must be able to log in with account and password [✔]
+1. **New User Registration**
+   - The client can register a new user, providing essential details for account creation.
 
-## Create a post
+2. **Login**
+   - Users can log in using their account credentials.
 
-1 - User must be able to post [✔]
-2 - View my posts [✔]
-3 - View response [✔]
+## Create a Post
 
-## Profile
+1. **Post Creation**
+   - Users have the ability to create and publish posts.
 
-1 - Edit your profile [✔]
-2 - view profiles [✔]
-3 - avatar upload [✔]
+2. **View My Posts**
+   - A feature allowing users to see a list of posts they have created.
 
-## Post
+3. **View Responses**
+   - Users can view responses to their posts.
 
-1 - Post list [✔]
-2 - Post details [✔]
-3 - Chat [❌]
+## Profile Management
 
-## Home screen 
+1. **Edit Profile**
+   - Users can update their profile information.
 
-1 - Location Select [❌]
-2 - Find by location [❌]
-3 - Search Hotel [❌]
-4 - Search user [✔]
+2. **View Profiles**
+   - A feature to view other user profiles.
+
+3. **Avatar Upload**
+   - Users can upload and update their avatars using Multer.
+
+## Post Management
+
+1. **Post List**
+   - Displays a list of posts available in the application.
+
+2. **Post Details**
+   - Users can view detailed information about a specific post.
+
+3. **Chat (Pending)**
+   - (Description about the pending chat feature)
+
+## Home Screen
+
+1. **Location Selection (Pending)**
+   - (Description about the pending location selection feature)
+
+2. **Find by Location (Pending)**
+   - (Description about the pending find by location feature)
+
+3. **Search Hotel (Pending)**
+   - (Description about the pending search hotel feature)
+
+4. **Search User**
+   - Users can search for other users in the application.
+
+## Getting Started
+
+(Include any necessary instructions for setting up and running the application)
+
+## Technologies Used
+
+- Node.js
+- Docker
+- TypeORM
+- Multer
