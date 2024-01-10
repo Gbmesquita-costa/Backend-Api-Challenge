@@ -1,5 +1,3 @@
-# Project Name
-
 ## Overview
 
 This project is a backend application developed in Node.js, Docker, TypeORM, and Multer for avatar upload. It's designed for a North American startup and includes the following features:
