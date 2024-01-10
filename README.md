@@ -57,9 +57,7 @@ This project is a backend application developed in Node.js, Docker, TypeORM, and
 4. **Search User**
    - Users can search for other users in the application.
 
-## Getting Started
 
-(Include any necessary instructions for setting up and running the application)
 
 ## Technologies Used
 
